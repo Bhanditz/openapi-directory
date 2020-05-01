@@ -1,0 +1,34 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - json-refs > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - sway > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - api-spec-converter > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - api-spec-converter > google-discovery-to-swagger > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - api-spec-converter > raml-to-swagger > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - json-refs > graphlib > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - sway > json-refs > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - api-spec-converter > sway > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - sway > json-refs > graphlib > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - api-spec-converter > sway > json-refs > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - gulp-awspublish > aws-sdk > xmlbuilder > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - api-spec-converter > sway > json-refs > graphlib > lodash:
+        patched: '2020-05-01T05:49:48.212Z'
+    - gulp-awspublish > aws-sdk > xml2js > xmlbuilder > lodash:
+        patched: '2020-05-01T05:49:48.212Z'

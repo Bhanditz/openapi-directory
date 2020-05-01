@@ -31,7 +31,8 @@
     "shelljs": "^0.7.0",
     "swagger-methods": "^1.0.0",
     "sway": "github:apigee-127/sway",
-    "urijs": "^1.16.1"
+    "urijs": "^1.16.1",
+    "snyk": "^1.316.1"
   },
   "private": true,
   "repository": {
@@ -40,9 +41,12 @@
   },
   "scripts": {
     "test": "scripts/collection.js validate -q",
-    "deploy": "scripts/deploy.js && ./scripts/deploy_badges.js && gulp publish"
+    "deploy": "scripts/deploy.js && ./scripts/deploy_badges.js && gulp publish",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "devDependencies": {
     "dredd": "^4.7.0"
-  }
+  },
+  "snyk": true
 }
