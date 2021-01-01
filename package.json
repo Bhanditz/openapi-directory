@@ -31,7 +31,7 @@
     "shelljs": "^0.7.0",
     "swagger-methods": "^1.0.0",
     "sway": "github:apigee-127/sway",
-    "urijs": "^1.16.1"
+    "urijs": "^1.19.4"
   },
   "private": true,
   "repository": {
