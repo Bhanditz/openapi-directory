@@ -28,7 +28,7 @@
     "parse-domain": "^0.2.0",
     "recursive-readdir": "^2.1.1",
     "sanitize-filename": "^1.5.3",
-    "shelljs": "^0.7.0",
+    "shelljs": "^0.8.5",
     "swagger-methods": "^1.0.0",
     "sway": "github:apigee-127/sway",
     "urijs": "^1.16.1"
