@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "api-spec-converter": "^2.6.0",
+    "api-spec-converter": "^2.7.17",
     "bluebird": "^3.3.4",
     "commander": "^2.8.1",
     "concurrent-transform": "^1.0.0",
@@ -8,8 +8,8 @@
     "deploy-to-gh-pages": "^1.2.0",
     "editor": "^1.0.0",
     "glob": "^7.0.3",
-    "gulp": "^3.9.1",
-    "gulp-awspublish": "^3.2.0",
+    "gulp": "^4.0.0",
+    "gulp-awspublish": "^4.1.0",
     "gulp-rename": "^1.2.2",
     "jiff": "^0.7.3",
     "js-yaml": "^3.4.3",
@@ -17,7 +17,7 @@
     "json-pointer": "^0.6.0",
     "json-refs": "git+https://github.com/whitlockjc/json-refs.git",
     "jsondiffpatch": "^0.1.33",
-    "jsonpath": "^0.2.0",
+    "jsonpath": "^1.0.2",
     "lodash": "^4.6.1",
     "makeRequest": "github:apis-guru/makeRequest",
     "merge-stream": "^1.0.0",
