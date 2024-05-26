@@ -7,7 +7,7 @@
     "deep-sort-object": "^1.0.1",
     "deploy-to-gh-pages": "^1.2.0",
     "editor": "^1.0.0",
-    "glob": "^7.0.3",
+    "glob": "^9.0.0",
     "gulp": "^3.9.1",
     "gulp-awspublish": "^3.2.0",
     "gulp-rename": "^1.2.2",
