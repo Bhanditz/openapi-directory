@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "api-spec-converter": "^2.6.0",
+    "api-spec-converter": "^2.11.4",
     "bluebird": "^3.3.4",
     "commander": "^2.8.1",
     "concurrent-transform": "^1.0.0",
@@ -8,8 +8,8 @@
     "deploy-to-gh-pages": "^1.2.0",
     "editor": "^1.0.0",
     "glob": "^7.0.3",
-    "gulp": "^3.9.1",
-    "gulp-awspublish": "^3.2.0",
+    "gulp": "^4.0.0",
+    "gulp-awspublish": "^6.0.0",
     "gulp-rename": "^1.2.2",
     "jiff": "^0.7.3",
     "js-yaml": "^3.4.3",
