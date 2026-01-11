@@ -9,7 +9,7 @@
     "editor": "^1.0.0",
     "glob": "^7.0.3",
     "gulp": "^3.9.1",
-    "gulp-awspublish": "^3.2.0",
+    "gulp-awspublish": "^6.0.0",
     "gulp-rename": "^1.2.2",
     "jiff": "^0.7.3",
     "js-yaml": "^3.4.3",
